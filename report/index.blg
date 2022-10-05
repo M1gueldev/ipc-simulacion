@@ -1,0 +1,17 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'index.blg'
+[125] biber:340> INFO - === Wed Oct  5, 2022, 02:19:08
+[146] Biber.pm:418> INFO - Reading 'index.bcf'
+[261] Biber.pm:972> INFO - Found 3 citekeys in bib section 0
+[278] Biber.pm:4383> INFO - Processing section 0
+[292] Biber.pm:4574> INFO - Looking for bibtex file 'referencias.bib' for section 0
+[294] bibtex.pm:1713> INFO - LaTeX decoding ...
+[301] bibtex.pm:1518> INFO - Found BibTeX data source 'referencias.bib'
+[392] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[392] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[392] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[407] bbl.pm:654> INFO - Writing 'index.bbl' with encoding 'UTF-8'
+[409] bbl.pm:757> INFO - Output to index.bbl
+[409] Biber.pm:130> WARN - legacy month field 'Apr' in entry 'ine_ipc' is not an integer - this will probably not sort properly.
+[409] Biber.pm:130> WARN - legacy month field 'Jun' in entry 'verl_model' is not an integer - this will probably not sort properly.
+[409] Biber.pm:132> INFO - WARNINGS: 2

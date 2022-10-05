@@ -1,0 +1,99 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{intro_gm}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2ca6d94cb863d2531acc2d1dfdbb8ead}{%
+           family={Deng},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ca6d94cb863d2531acc2d1dfdbb8ead}
+      \strng{fullhash}{2ca6d94cb863d2531acc2d1dfdbb8ead}
+      \strng{bibnamehash}{2ca6d94cb863d2531acc2d1dfdbb8ead}
+      \strng{authorbibnamehash}{2ca6d94cb863d2531acc2d1dfdbb8ead}
+      \strng{authornamehash}{2ca6d94cb863d2531acc2d1dfdbb8ead}
+      \strng{authorfullhash}{2ca6d94cb863d2531acc2d1dfdbb8ead}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Grey System}
+      \field{title}{Introduction to Grey system theory}
+      \field{volume}{1}
+      \field{year}{1989}
+      \field{pages}{1\bibrangedash 24}
+      \range{pages}{24}
+    \endentry
+    \entry{ine_ipc}{misc}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{INE}
+      \field{month}{4}
+      \field{title}{Gráficos IPC}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.ine.gob.bo/index.php/graficos-ipc/
+      \endverb
+      \verb{url}
+      \verb https://www.ine.gob.bo/index.php/graficos-ipc/
+      \endverb
+    \endentry
+    \entry{verl_model}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5240e759130ab3e121809b93c3b65e33}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Nhu-Ty},
+           giveni={N\bibinithyphendelim T\bibinitperiod}}}%
+        {{hash=0f82eac6f1e3a70dc59a822a0641a388}{%
+           family={Tran},
+           familyi={T\bibinitperiod},
+           given={Thanh-Tuyen},
+           giveni={T\bibinithyphendelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{e0b705976baf1efc08255c0db14cadb9}
+      \strng{fullhash}{e0b705976baf1efc08255c0db14cadb9}
+      \strng{bibnamehash}{e0b705976baf1efc08255c0db14cadb9}
+      \strng{authorbibnamehash}{e0b705976baf1efc08255c0db14cadb9}
+      \strng{authornamehash}{e0b705976baf1efc08255c0db14cadb9}
+      \strng{authorfullhash}{e0b705976baf1efc08255c0db14cadb9}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Discrete Dynamics in Nature and Society}
+      \field{month}{6}
+      \field{title}{Mathematical development and evaluation of forecasting models for accuracy of inflation in developing countries: A case of Vietnam}
+      \field{volume}{2015}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1155/2015/858157
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

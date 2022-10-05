@@ -1,0 +1,27 @@
+\documentclass[a4paper,10pt]{article}
+
+\usepackage{ucs}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{fontenc}
+\usepackage{graphicx}
+\usepackage{authblk}
+
+\usepackage[dvips]{hyperref}
+
+\title{Mediciones Directas 1}
+\author{Miguel Murillo Bernal}
+\affil{mmurillob@fcpn.edu.bo}
+\date{5/8/22}
+\begin{document}
+\maketitle
+\begin{abstract}
+Resumen
+\end{abstract}
+\section{Introducción}
+\section{Desarrollo Experimental}
+\section{Resultados y Discusión}
+\section{Conclusiones}
+
+\end{document}
+
